@@ -15,13 +15,13 @@ Menampilkan kalender
 
 Contoh : `cal`
 
-- [ ] **cd**
+- [x] **cd**
 
 Mengubah working direktori
 
 Contoh: `cd /var/www/html` -> akan berpindah ke direktori `/var/www/html`
 
-- [ ] **head**
+- [x] **head**
 
 Contoh: (asumsi isi file lebih dari 10)
 - `head -n 5 file.txt` (mencetakan isi file sebanyak 5 baris, default mencetak 10 baris tanpa option -n)
@@ -29,7 +29,7 @@ Contoh: (asumsi isi file lebih dari 10)
 - `head -q  file1.txt file2.txt` (digunakan jika file lebih dari 1, akan mencetak sebanyak 20 baris)
 - `head -v file.txt` (selain mencetak 10 baris dari isi file, akan mencetak nama filenya pada baris pertama)
 
-- [ ] **tail**
+- [x] **tail**
 
 Perintah tail atau tail command akan menampilkan bagian terakhir (10 baris secara default) dari satu atau lebih file atau data yang disalurkan.
 
